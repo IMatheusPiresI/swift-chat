@@ -1,0 +1,6 @@
+framework module Pods_FlashChatViewCode {
+  umbrella header "Pods-FlashChatViewCode-umbrella.h"
+
+  export *
+  module * { export * }
+}
