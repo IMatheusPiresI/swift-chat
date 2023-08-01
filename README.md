@@ -14,7 +14,7 @@ Project repository **PChat** development with **Swift, UIKit, MVC, Constraints, 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="./FlashChatViewCode/Assets.xcassets/chatReadme.imageset/chatReadme.png" alt="app" width="180px" height="380px"/>
 </div>
-
+    <br>
 <p align="center">
     <img src="./FlashChatViewCode/Assets.xcassets/chat.dataset/chat.gif" alt="app" width="500px" height="100%"/>
 </p>
