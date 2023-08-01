@@ -15,6 +15,10 @@ Project repository **PChat** development with **Swift, UIKit, MVC, Constraints, 
  <img src="./FlashChatViewCode/Assets.xcassets/chatReadme.imageset/chatReadme.png" alt="app" width="180px" height="380px"/>
 </div>
 
+<p align="center">
+    <img src="./FlashChatViewCode/Assets.xcassets/chat.dataset/chat.gif" alt="app" width="500px" height="100%"/>
+</p>
+
 
 <h3 id="acessar-projeto">📁 Initializing Clone</h3>
 
