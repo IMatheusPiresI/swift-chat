@@ -7,11 +7,11 @@ Project repository **PChat** development with **Swift, UIKit, MVC, Constraints, 
 <h3 id="acessar-projeto">📁 Preview</h3>
 <div style="text-align: center;">
     <img src="./FlashChatViewCode/Assets.xcassets/welcomeReadme.imageset/welcomeReadme.png" alt="app" width="180px" height="380px"/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./FlashChatViewCode/Assets.xcassets/registerReadme.imageset/registerReadme.png" alt="app" width="180px" height="380px"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./FlashChatViewCode/Assets.xcassets/loginReadme.imageset/loginReadme.png" alt="app" width="180px" height="380px"/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="./FlashChatViewCode/Assets.xcassets/chatReadme.imageset/chatReadme.png" alt="app" width="180px" height="380px"/>
 </div>
 
