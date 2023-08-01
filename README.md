@@ -46,6 +46,6 @@ Project repository **PChat** development with **Swift, UIKit, MVC, Constraints, 
 
 <h3 id="autor">✒️ Author</h3>
 
-<a href="https://github.com/imatheuspiresi"> <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/84977444?v=4" width="100px;" alt="Personal photo"/> </a>
+<a href="https://www.figma.com/file/W80kgphQps6M4s2eEqz1Es/PChat?type=design&node-id=0-1&mode=design&t=TqKBAiF83aUabYR9-0" target="blank"> <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/84977444?v=4" width="100px;" alt="Personal photo"/> </a>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pires-87a174211/) [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imatheuspiresi) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheuspdsousa@gmail.com)
