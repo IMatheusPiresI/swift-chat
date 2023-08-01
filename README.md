@@ -34,6 +34,15 @@ Project repository **PChat** development with **Swift, UIKit, MVC, Constraints, 
 ✅ Login and Register with Firebase. <br>
 ✅ Messages in real time using Firebase Firestore Listenner for observer change in database and reply on app.
 ✅ Pchat is a group chat for all users created with Firebase.
+✅ Interfaces, icons, and color palette created by Me using Figma.
+
+<h3 id="autor">🌁 Figma</h3>
+
+-> Access figma and check out the creation of the application and flow of screens.<br>
+-> Link Figma Project: <a href="https://github.com/imatheuspiresi">Swift PChat Project</a>
+<p align="center">
+    <img src="./FlashChatViewCode/Assets.xcassets/figmaReadme.imageset/figmaReadme.png" alt="app" width="500px" height="100%"/>
+</p>
 
 <h3 id="autor">✒️ Author</h3>
 
