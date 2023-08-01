@@ -39,7 +39,7 @@ Project repository **PChat** development with **Swift, UIKit, MVC, Constraints, 
 <h3 id="autor">🌁 Figma</h3>
 
 -> Access figma and check out the creation of the application and flow of screens.<br>
--> Link Figma Project: <a href="https://github.com/imatheuspiresi](https://www.figma.com/file/W80kgphQps6M4s2eEqz1Es/PChat?type=design&node-id=0%3A1&mode=design&t=TqKBAiF83aUabYR9-1)">Swift PChat Project</a>
+-> Link Figma Project: <a href="https://www.figma.com/file/W80kgphQps6M4s2eEqz1Es/PChat?type=design&node-id=0-1&mode=design&t=TqKBAiF83aUabYR9-0">Swift PChat Project</a>
 <p align="center">
     <img src="./FlashChatViewCode/Assets.xcassets/figmaReadme.imageset/figmaReadme.png" alt="app" width="500px" height="100%"/>
 </p>
