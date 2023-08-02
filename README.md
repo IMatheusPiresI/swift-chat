@@ -32,9 +32,9 @@ Project repository **PChat** development with **Swift, UIKit, MVC, Constraints, 
 ✅ Project created using MVC pattern.<br>
 ✅ Use Firebase Authentication for user access and change layout message. <br>
 ✅ Login and Register with Firebase. <br>
-✅ Messages in real time using Firebase Firestore Listenner for observer change in database and reply on app.
-✅ Pchat is a group chat for all users created with Firebase.
-✅ Interfaces, icons, and color palette created by Me using Figma.
+✅ Messages in real time using Firebase Firestore Listenner for observer change in database and reply on app. <br>
+✅ Pchat is a group chat for all users created with Firebase. <br>
+✅ Interfaces, icons, and color palette created by Me using Figma. <br>
 
 <h3 id="autor">🌁 Figma</h3>
 
